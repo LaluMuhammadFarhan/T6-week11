@@ -92,9 +92,9 @@ Aplikasi ini terhubung ke REST API di `https://api.pahrul.my.id/api/posts`.
 
 | Tampilan          | Screenshot |
 |-------------------|------------|
-| Halaman Utama     | ![]() |
-| Tambah Post       | ![]() |
-| Edit Post         | ![]() |
-| Detail & Komentar | ![]() |
-| Validasi Form     | ![]() |
-| Konfirmasi Hapus  | ![]() |
+| Halaman Utama     | ![Halaman Utama](screenshots/halaman-utama.png) |
+| Tambah Post       | ![Tambah Post](screenshots/tambah-post.png) |
+| Edit Post         | ![Edit Post](screenshots/edit-post.png) |
+| Detail & Komentar | ![Detail & Komentar](screenshots/detail-komentar.png) |
+| Validasi Form     | ![Validasi Form](screenshots/validasi-form.png) |
+| Konfirmasi Hapus  | ![Konfirmasi Hapus](screenshots/konfirmasi-hapus.png) |
